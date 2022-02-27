@@ -1,5 +1,5 @@
 # Replete
-Mozohack 3.0 team project
+Replete enables restaurants to donate excess or left-over food to organisations that distribute them to those who don't share the luxury
 
 ## Features to be Added
 
